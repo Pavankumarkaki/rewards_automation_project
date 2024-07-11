@@ -63,7 +63,7 @@ This project is a Python GUI application for automating mouse movements, clicks,
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<!-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
 
 ## Contributing
 
