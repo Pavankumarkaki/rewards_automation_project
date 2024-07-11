@@ -19,7 +19,7 @@ This project is a Python GUI application for automating mouse movements, clicks,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pavankumarkaki/mouse_automation_project.git
+   git clone https://github.com/Pavankumarkaki/rewards_automation_project.git
    cd mouse_automation_project
    ```
 
