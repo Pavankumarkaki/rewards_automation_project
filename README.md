@@ -20,7 +20,7 @@ This project is a Python GUI application for automating mouse movements, clicks,
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pavankumarkaki/rewards_automation_project.git
-   cd mouse_automation_project
+   cd rewards_automation_project
    ```
 
 2. Create a virtual environment and activate it:
